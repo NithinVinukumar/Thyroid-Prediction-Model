@@ -8,14 +8,14 @@ Thyroid disorders, especially hypothyroidism, are common conditions where the th
 
 ## Key Features
 
-Logistic Regression Model
-ROC Curve & AUC score
-Feature Importance
-Visualization
+Logistic Regression Model  
+ROC Curve & AUC score  
+Feature Importance  
+Visualization  
 
 ## Project structure
-Data preprocessing
-Model Training
-Model Evaluation
-Visualization
-Streamliy web application
+Data preprocessing  
+Model Training  
+Model Evaluation  
+Visualization  
+Streamliy web application  
